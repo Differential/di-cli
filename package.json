@@ -1,0 +1,22 @@
+{
+  "name": "di",
+  "version": "0.0.1",
+  "description": "Differential CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schnie/di.git"
+  },
+  "author": "schnie",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/schnie/di/issues"
+  },
+  "homepage": "https://github.com/schnie/di",
+  "dependencies": {
+    "q": "0.9.7"
+  }
+}
