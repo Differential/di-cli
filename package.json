@@ -1,6 +1,6 @@
 {
-  "name": "dicli",
-  "version": "0.0.3",
+  "name": "di-cli",
+  "version": "0.0.6",
   "description": "Differential CLI",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/schnie/di",
   "dependencies": {
-    "q": "0.9.7"
+    "q": "0.9.7",
+    "optimist": "0.6.0",
+    "github": "0.1.12",
+    "prompt": "0.2.12"
   }
 }
