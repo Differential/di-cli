@@ -4,4 +4,9 @@ di-cli
 Differential command line tool.
 
 
-di create awesomeapp
+###Usage
+
+    $ di create yourappname
+
+    Options:t
+      -p (https, ssh) - if ommited, it checks for ssh keys and uses those, otherwise just uses github preferred https.
