@@ -1,6 +1,6 @@
 {
   "name": "di-cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Differential CLI",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/schnie/di.git"
+    "url": "https://github.com/BeDifferential/di-cli"
   },
   "bin": {
     "di": "./bin/di"
@@ -16,9 +16,9 @@
   "author": "schnie",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/schnie/di/issues"
+    "url": "https://github.com/BeDifferential/di-cli/issues"
   },
-  "homepage": "https://github.com/schnie/di",
+  "homepage": "https://github.com/BeDifferential/di-cli",
   "dependencies": {
     "q": "0.9.7",
     "optimist": "0.6.0",
