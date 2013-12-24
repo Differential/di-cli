@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"res",
+				"result"
+			],
+			[
 				"git",
 				"github"
 			],
@@ -14,10 +18,6 @@
 			[
 				"github",
 				"githubCreate"
-			],
-			[
-				"res",
-				"resolve"
 			],
 			[
 				"err",
@@ -115,7 +115,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 560,
+				"buffer_size": 617,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,7 +131,7 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 280,
+				"buffer_size": 281,
 				"line_ending": "Unix"
 			}
 		},
@@ -139,15 +139,7 @@
 			"file": "lib/git.js",
 			"settings":
 			{
-				"buffer_size": 2437,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/schnie/repos/di-go/main.go",
-			"settings":
-			{
-				"buffer_size": 559,
+				"buffer_size": 2808,
 				"line_ending": "Unix"
 			}
 		}
@@ -180,6 +172,7 @@
 	"file_history":
 	[
 		"/home/schnie/repos/di-node/.gitignore",
+		"/home/schnie/repos/di-go/main.go",
 		"/home/schnie/repos/npm-debug.log",
 		"/home/schnie/repos/di-go/doc.go",
 		"/home/schnie/repos/di-node/index.js",
@@ -244,7 +237,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -253,15 +246,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 560,
+						"buffer_size": 617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								553,
-								553
+								41,
+								41
 							]
 						],
 						"settings":
@@ -274,7 +267,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -303,7 +296,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -312,7 +305,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 280,
+						"buffer_size": 281,
 						"regions":
 						{
 							"mark":
@@ -322,8 +315,8 @@
 								"regions":
 								[
 									[
-										262,
-										262
+										263,
+										263
 									]
 								],
 								"scope": "mark"
@@ -332,8 +325,8 @@
 						"selection":
 						[
 							[
-								93,
-								93
+								281,
+								281
 							]
 						],
 						"settings":
@@ -346,7 +339,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -355,15 +348,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2437,
+						"buffer_size": 2808,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1490,
-								1490
+								721,
+								721
 							]
 						],
 						"settings":
@@ -373,40 +366,11 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/schnie/repos/di-go/main.go",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 559,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								128,
-								128
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Go/Go.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 552.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
