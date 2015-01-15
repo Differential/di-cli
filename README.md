@@ -18,3 +18,7 @@ Differential command line tool.
 
     Options:
       -p (https, ssh) - if ommited, it checks for ssh keys and uses those, otherwise just uses github preferred https. (ex: di create yourappname -p https)
+
+### di set-modulus 
+
+The command `di set-modulus <option>` uses the information in the `~/.dirc` file to set the modulus environment.
